@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "475534787542",
+    "project_id": "picture-sharing-system-c0d8b",
+    "storage_bucket": "picture-sharing-system-c0d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475534787542:android:9c80b90921e4bcda435a77",
+        "android_client_info": {
+          "package_name": "com.example.picture_sharing_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475534787542-ehh9pufgk7arr6p3qftl6g6bv11m0di9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBwllsghqF3_wvDFWGZu4qF9CPgz3O8Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475534787542-ehh9pufgk7arr6p3qftl6g6bv11m0di9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "475534787542-67d87k4oa0nd5a9045c4abfm5pgie661.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pictureSharingSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
